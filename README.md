@@ -1,5 +1,5 @@
-Python Bot for Scraping AliExpress Product Data
-
+**Python Bot for Scraping AliExpress Product Data
+**
 This repository contains a Python bot designed to scrape product data from AliExpress. The bot extracts essential product details such as:
 
 Product Name
@@ -14,8 +14,8 @@ Reviews
 
 The scraped data is then saved into an Excel database for easy access and further analysis.
 
-Features:
-Web Scraping: Utilizes libraries like BeautifulSoup and requests to fetch and parse HTML content from AliExpress product pages.
+**Features:
+**Web Scraping: Utilizes libraries like BeautifulSoup and requests to fetch and parse HTML content from AliExpress product pages.
 
 Data Extraction: Extracts key product information including name, price, category, image URL, and reviews.
 
@@ -23,8 +23,8 @@ Excel Integration: Saves the extracted data into an Excel file using pandas and 
 
 User-Friendly: Easy to configure and run with minimal setup required.
 
-How to Use:
-Clone the Repository:
+**How to Use:
+**Clone the Repository:
 
 bash
 Copy
