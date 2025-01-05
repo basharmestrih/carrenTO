@@ -27,3 +27,18 @@ The scraped data is then saved into an Excel database for easy access and furthe
 ```bash
 git clone https://github.com/your-username/aliexpress-product-scraper.git
 cd aliexpress-product-scraper
+Step 2: Install Dependencies
+bash
+Copy
+pip install -r requirements.txt
+Step 3: Run the Bot
+bash
+Copy
+python scraper.py
+Step 4: Check the Output
+The scraped data will be saved in an Excel file named products_data.xlsx in the root directory.
+
+3. Requirements
+Python 3.x
+
+Libraries: requests, BeautifulSoup, pandas, openpyxl
